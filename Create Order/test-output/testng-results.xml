@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-13T17:08:16 IST" name="Default suite" finished-at="2021-07-13T17:08:23 IST" duration-ms="7135">
+    <groups>
+    </groups>
+    <test started-at="2021-07-13T17:08:16 IST" name="Default test" finished-at="2021-07-13T17:08:23 IST" duration-ms="7135">
+      <class name="com.crm.order.executiontest.CreateOrder">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.crm.order.executiontest.CreateOrder@6cc91654]" started-at="2021-07-13T17:08:16 IST" name="beforeclass" finished-at="2021-07-13T17:08:17 IST" duration-ms="1466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.order.executiontest.CreateOrder@6cc91654]" started-at="2021-07-13T17:08:17 IST" name="beforeMethod" finished-at="2021-07-13T17:08:17 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.order.executiontest.CreateOrder.test1() throws com.fasterxml.jackson.core.JsonProcessingException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:com.crm.order.executiontest.CreateOrder@6cc91654]" started-at="2021-07-13T17:08:18 IST" name="test1" finished-at="2021-07-13T17:08:23 IST" duration-ms="5384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.crm.order.executiontest.CreateOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
